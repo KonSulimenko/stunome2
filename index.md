@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# ÚKOL NA STUNOME 2
+## Kateřina Knaislová, Karolína Nečadová, Konstantin Sulimenko
 
-You can use the [editor on GitHub](https://github.com/KonSulimenko/stunome2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<a href="https://ibb.co/m6fMhyV"><img src="https://i.ibb.co/xJxRzgt/153429531-175185007481621-6135915716303224266-n.jpg" alt="153429531-175185007481621-6135915716303224266-n" border="0"></a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](https://i.ibb.co/xJxRzgt/153429531-175185007481621-6135915716303224266-n.jpg)
 
-### Markdown
+### ENHANCE 
+Vynález mobilu umožňuje propojení na větší vzdálenosti a zároveň dostupnost. Každý je v libovolný okamžik komunikačně dostupnější ostatním a zároveň sám může kdykoliv zkontaktovat kohokoliv potřebuje (bez potřeby se vázat na cizí služby). 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### OBSOLENCE 
+Díky mobilu zastarává ukotvenost na místě, podobně jako potřeba pevné organizovanosti. Pokud si s někým domluvíme plány, je daleko snazší je na poslední chvíli zrušit.
 
-```markdown
-Syntax highlighted code block
+### RETRIEVAL
+Oproti pevné lince je s mobilem reaktualizován text. Stejně, jako to bylo nutné třeba u telegramu, je s tlačítkovým telefonem znovuobjevena stručnost.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KonSulimenko/stunome2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### REVERSAL
+Zvratem je u mobilů extenze kanálů a s nimi smyslů - už nechceme jen slyšet, ale také vidět.
