@@ -1,7 +1,5 @@
 # ÚKOL NA STUNOME 2
-## Kateřina Knaislová, Karolína Nečadová, Konstantin Sulimenko
-
-<a href="https://ibb.co/m6fMhyV"><img src="https://i.ibb.co/xJxRzgt/153429531-175185007481621-6135915716303224266-n.jpg" alt="153429531-175185007481621-6135915716303224266-n" border="0"></a>
+### by Kateřina Knaislová, Karolína Nečadová, Konstantin Sulimenko
 
 ![Image](https://i.ibb.co/xJxRzgt/153429531-175185007481621-6135915716303224266-n.jpg)
 
